@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="kr.ac.mju.LectureDAO" project="[최종]60092483_박호운" 
+    file="/[최종]60092483_박호운/src/main/java/kr/ac/mju/LectureDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="291" x="2258" y="442"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="2" language="java" name="kr.ac.mju.Constants.RegisterMsg" project="[최종]60092483_박호운" 
+    file="/[최종]60092483_박호운/src/main/java/kr/ac/mju/Constants.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="186" x="1362" y="442"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="3" language="java" name="kr.ac.mju.LoginController" project="[최종]60092483_박호운" 
+    file="/[최종]60092483_박호운/src/main/java/kr/ac/mju/LoginController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="236" x="1318" y="-201"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="kr.ac.mju.Sugang" project="[최종]60092483_박호운" 
+    file="/[최종]60092483_박호운/src/main/java/kr/ac/mju/Sugang.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="175" x="346" y="-201"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="kr.ac.mju.UserDao" project="[최종]60092483_박호운" 
+    file="/[최종]60092483_박호운/src/main/java/kr/ac/mju/UserDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="291" x="766" y="442"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="6" language="java" name="kr.ac.mju.Constants.LoginMsg" project="[최종]60092483_박호운" 
+    file="/[최종]60092483_박호운/src/main/java/kr/ac/mju/Constants.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="137" x="1588" y="442"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="7" language="java" name="kr.ac.mju.Constants.CreateMsg" project="[최종]60092483_박호운" 
+    file="/[최종]60092483_박호운/src/main/java/kr/ac/mju/Constants.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="129" x="1765" y="442"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="8" language="java" name="kr.ac.mju.HomeController" project="[최종]60092483_박호운" 
+    file="/[최종]60092483_박호운/src/main/java/kr/ac/mju/HomeController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="165" x="561" y="-201"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="kr.ac.mju.Lecture" project="[최종]60092483_박호운" 
+    file="/[최종]60092483_박호운/src/main/java/kr/ac/mju/Lecture.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="603" width="231" x="1047" y="-201"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="kr.ac.mju.SugangController" project="[최종]60092483_박호운" 
+    file="/[최종]60092483_박호운/src/main/java/kr/ac/mju/SugangController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="273" x="33" y="-201"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="kr.ac.mju.JoinController" project="[최종]60092483_박호운" 
+    file="/[최종]60092483_박호운/src/main/java/kr/ac/mju/JoinController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="241" x="766" y="-201"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="kr.ac.mju.User" project="[최종]60092483_박호운" 
+    file="/[최종]60092483_박호운/src/main/java/kr/ac/mju/User.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="178" x="1097" y="743"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="kr.ac.mju.SugangDAO" project="[최종]60092483_박호운" 
+    file="/[최종]60092483_박호운/src/main/java/kr/ac/mju/SugangDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="291" x="33" y="442"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="14" language="java" name="kr.ac.mju.Constants.DBMS" project="[최종]60092483_박호운" 
+    file="/[최종]60092483_박호운/src/main/java/kr/ac/mju/Constants.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="120" x="1934" y="442"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="15" language="java" name="kr.ac.mju.Constants" project="[최종]60092483_박호운" 
+    file="/[최종]60092483_박호운/src/main/java/kr/ac/mju/Constants.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="87" x="1765" y="-201"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="kr.ac.mju.LoginService" project="[최종]60092483_박호운" 
+    file="/[최종]60092483_박호운/src/main/java/kr/ac/mju/LoginService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="225" x="1097" y="442"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="kr.ac.mju.LectureController" project="[최종]60092483_박호운" 
+    file="/[최종]60092483_박호운/src/main/java/kr/ac/mju/LectureController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="266" x="2258" y="-201"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="18" language="java" name="kr.ac.mju.Constants.ScoreMsg" project="[최종]60092483_박호운" 
+    file="/[최종]60092483_박호운/src/main/java/kr/ac/mju/Constants.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="124" x="2094" y="442"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <association id="19">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="20" name="lectureDAO"/>      
+      <multiplicity id="21" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="22">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="23" name="service"/>      
+      <multiplicity id="24" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="25">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="26" name="sugangDAO"/>      
+      <multiplicity id="27" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="28">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="29" name="userDAO"/>      
+      <multiplicity id="30" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="31">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="7"/>  
+  </nesting>  
+  <association id="32">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="33" name="user"/>      
+      <multiplicity id="34" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="35">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="18"/>  
+  </nesting>  
+  <nesting id="36">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <nesting id="37">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <nesting id="38">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="14"/>  
+  </nesting>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
